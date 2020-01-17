@@ -42,7 +42,7 @@
 #
 そんなことをしていると、目の前にでかいのが飛び出した[l][r]
 アイたちは巨大な影に包まれる[l][r][cm]
-[chara_show name="m_sinou" width=500 top=0]
+[chara_show name="m_sinou" width=600 top=0]
 [chara_hide name="c_yui"]
 [chara_hide name="c_plan"]
 #シンオウ

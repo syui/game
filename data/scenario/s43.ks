@@ -110,7 +110,7 @@
 [bg storage=f_nekosen_1.png]
 [chara_hide_all wait=true]
 #シンオウ
-[chara_show name="m_sinou" width=500 top=0]
+[chara_show name="m_sinou" width=600 top=0]
 グオオオオオオン！[l][r][cm]
 #ネコセン
 [chara_show name="m_nekosen" width=300 top=50]

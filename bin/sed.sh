@@ -59,5 +59,6 @@ do
 	#sed -i "" "s/\[chara_show name=\"c_octo_ou\" width=400 top=50\]/\[chara_show name=\"c_octo_ou\" width=500 top=10\]/g" $file_ja
 	#sed -i "" "s/\[chara_show name=\"c_octo_hei\" width=400 top=50\]/\[chara_show name=\"c_octo_hei\" width=500 top=10\]/g" $file_ja
 	#sed -i "" "s/\[chara_show name=\"c_yui_tensi\" width=400 top=50\]/\[chara_show name=\"c_yui_tensi\" width=400 top=30\]/g" $file_ja
+	#sed -i "" "s/\[chara_show name=\"m_sinou\" width=500 top=0\]/\[chara_show name=\"m_sinou\" width=600 top=0\]/g" $file_ja
     fi
 done

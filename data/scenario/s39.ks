@@ -29,7 +29,7 @@
 ドッカーーーーーン！！！[l][r][cm]
 K007がシンオウに向けて発射された[l][r][cm]
 
-[chara_show name="m_sinou" width=500 top=0]
+[chara_show name="m_sinou" width=600 top=0]
 #
 しかしアイが突然現れ[l][r]
 モンスターボックスを投げつける[l][r][cm]

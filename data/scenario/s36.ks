@@ -42,7 +42,7 @@
 アイとはかせは洞窟の先に進んだ[l][r][cm]
 #はかせ
 こ、これがシンオウ...でかい[l][r][cm]
-[chara_show name="m_sinou" width=500 top=0]
+[chara_show name="m_sinou" width=600 top=0]
 #
 運良くシンオウは眠っていた[l][r][cm]
 #アイ
@@ -66,7 +66,7 @@
 しかし、シンオウはボックスから抜け出した[l][r][cm]
 [chara_hide_all wait=true]
 #シンオウ
-[chara_show name="m_sinou" width=500 top=0]
+[chara_show name="m_sinou" width=600 top=0]
 ドグアッシャアアーーーーーン！[l][r][cm]
 #はかせ
 ...逃げよう！[l][r][cm]
