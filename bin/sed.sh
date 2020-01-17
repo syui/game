@@ -55,6 +55,7 @@ do
     	sed -i "" "s/\&\#39;/\'/g" $file_en
     	sed -i "" "s/\&quot;/\"/g" $file_en
     	sed -i "" "s/アイちゃん/アイくん/g" $file_ja
+    	sed -i "" "s/戸籍/国籍/g" $file_ja
 	#sed -i "" "s/\[chara_show name=\"c_octo_hakase\" width=400 top=50\]/\[chara_show name=\"c_octo_hakase\" width=500 top=10\]/g" $file_ja
 	#sed -i "" "s/\[chara_show name=\"c_octo_ou\" width=400 top=50\]/\[chara_show name=\"c_octo_ou\" width=500 top=10\]/g" $file_ja
 	#sed -i "" "s/\[chara_show name=\"c_octo_hei\" width=400 top=50\]/\[chara_show name=\"c_octo_hei\" width=500 top=10\]/g" $file_ja
