@@ -169,5 +169,5 @@ Is it an attribute that can never be realized?[l][r][cm]
 ; お、おう...そ、そんな...
 Oh, oh ... oh, that ...[l]
 ; ;
-;[glink storage="s42.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
+[glink storage="e44.ks" text="MORE" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 [s]

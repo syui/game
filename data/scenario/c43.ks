@@ -169,5 +169,5 @@ hy！[l][r]
 ; お、おう...そ、そんな...
 哦，哦，哦，那个...[l]
 ; ;
-;[glink storage="s42.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
+[glink storage="c44.ks" text="MORE" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 [s]
