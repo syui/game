@@ -108,6 +108,6 @@
 だが、幼かったアイに家のイメージはあまりなく[l][r]
 家の中には多少の家具と一冊の本だけが残されたのである[l]
 
-;[glink storage="s44.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
+[glink storage="s45.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 
 [s]

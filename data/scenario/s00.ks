@@ -8,5 +8,5 @@
 どのシリーズで遊ぶかを選択してください[l]
 [glink storage="s01.ks" text="yui" size=20 width="200" y=50 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 [glink storage="s30.ks" text="yui2" size=20 width="200" y=130 color=gray font_color=black graphic=more.png clickse=yes.ogg]
-[glink storage="s43.ks" text="最新話" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
+[glink storage="s45.ks" text="最新話" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 [s]
