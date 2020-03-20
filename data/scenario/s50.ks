@@ -211,6 +211,7 @@
 #グレイ
 [chara_hide name="c_yui_tensi"]
 [chara_show name="m_torimu" width=300 top=50]
+なっ！？[l][r][cm]
 くそっ！言葉をしゃべるモンスターなんて聞いたことねえ[l][r]
 それに、トリムの体力も...[l][r][cm]
 しかし、情報がねえ...俺にできることがなにも...[l][r][cm]
