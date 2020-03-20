@@ -42,7 +42,7 @@
 #アイ
 [chara_show name="c_yui" width=300 top=50]
 うん[l][r][cm]
-じゃあ、アイから入る！[l][r][cm]
+じゃあ、アイから入る[l][r][cm]
 #
 [chara_hide_all wait=true]
 そう言うと、アイはモンスターボックスに入っていった[l][r][cm]
