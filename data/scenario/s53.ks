@@ -13,9 +13,11 @@
 1000年後の未来だじょ！[l][r][cm]
 #アイ
 [chara_show name="c_yui" width=300 top=100]
-はあ[l][r][cm]
+はあ...[l][r][cm]
 #ネコセン
-お前...見かけによらずしぶといじょ[l][r][cm]
+お前...見かけによらずしぶといじょ[l][r]
+1000年も生きるとはな[l][r][cm]
+宇宙は広いのでお前みたいなのもたまにいるじょ[l][r][cm]
 #ネコセン
 ふむ、ふむ、なるほど、なるほど[l][r]
 .........................................[l][r]
@@ -84,6 +86,6 @@
 ;絵本の救世主
 ;時系列にする、アムでスラムの下層ロボが下剋上、コイン維持、はかせ負け、値下がり、アイがここで生まれ変わったアムを買う。
 
-[glink storage="ttt.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
+[glink storage="s54.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 
 [s]
