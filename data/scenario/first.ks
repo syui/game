@@ -1,8 +1,9 @@
 *start
 *title
 [title name="yui"]
+
 [position layer=message0 opacity=0]
-[plugin name="menu_se" menubutton_clickse="yes.ogg" menu_close_clickse="yes.ogg" save_list_clickse="yes.ogg" cancel_clickse="yes.ogg" confirm_clickse="yes.ogg" ]
+;[plugin name="menu_se" menubutton_clickse="yes.ogg" menu_close_clickse="yes.ogg" save_list_clickse="yes.ogg" cancel_clickse="yes.ogg" confirm_clickse="yes.ogg" ]
 ;[playbgm storage=03.ogg]
 
 [bg storage=p_blue_c.png time=0]
@@ -69,6 +70,8 @@
 [chara_new name="c_zeusu_3" storage="c_zeusu_3.png" jname="c_zeusu_3"]
 [chara_new name="c_grei" storage="c_grei.png" jname="c_grei"]
 [chara_new name="c_ripo" storage="c_ripo.png" jname="c_ripo"]
+[chara_new name="c_kakiko" storage="c_kakiko.png" jname="c_kakiko"]
+[chara_new name="c_amu" storage="c_amu.png" jname="c_amu"]
 [chara_new name="m_sinou" storage="m_sinou.png" jname="m_sinou"]
 [chara_new name="m_nekosen" storage="m_nekosen.png" jname="m_nekosen"]
 [chara_new name="m_torimu" storage="m_torimu.png" jname="m_torimu"]
