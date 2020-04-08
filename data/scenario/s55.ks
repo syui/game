@@ -112,9 +112,9 @@
 そうですが、なにか？[l][r][cm]
 
 #王様・はかせ
+[chara_show name="c_octo_hakase" width=400 top=50]
 ........................................[l][r][cm]
 #はかせ
-[chara_show name="c_octo_hakase" width=400 top=50]
 それは、アイくんがやる気にならないとどうにも...[l][r][cm]
 #カキコ
 相手はただの子供で、これは任務です[l][r]
