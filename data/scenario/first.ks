@@ -10,8 +10,8 @@
 [image layer=1 storage=logo_w.png visible=true top=30 left=340 width=300]
 [glink target=*first text="はじめから" size=20 width="200" x=350 y=290 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 [glink target=*loadmenu text="つづきから" size=20 width="200" x=350 y=360 color=gray font_color=black graphic=more.png clickse=yes.ogg]
-[glink target=*eng text="English" size=20 width="200" x=350 y=430 color=gray font_color=black graphic=more.png clickse=yes.ogg]
-[glink target=*chu text="中文" size=20 width="200" x=350 y=500 color=gray font_color=black graphic=more.png clickse=yes.ogg]
+;[glink target=*eng text="English" size=20 width="200" x=350 y=430 color=gray font_color=black graphic=more.png clickse=yes.ogg]
+;[glink target=*chu text="中文" size=20 width="200" x=350 y=500 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 
 [s]
 
