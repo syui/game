@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "cf.syui.game"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+  <name>yui</name>
+	<platform name="ios" />
+	<platform name="android" />
+  <description>
+      novel game yui.
+  </description>
+
+  <author href="https://syui.cf" email="syui@syui.cf">
+      syui
+  </author>
+
+</widget>
