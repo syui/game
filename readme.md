@@ -1,8 +1,8 @@
-update : 2020/03/20
+update : 2020/04/26
 
-`はじめから -> 最新話:47話`
+`はじめから -> 最新話:54話`
 
-phonegap : config.xml
+phonegap,cordova : config.xml
 
 ## 履歴
 
@@ -75,5 +75,7 @@ phonegap : config.xml
 - 2020/03/20 : yui3の後半、アム編の冒頭を追加
 
 - 2020/04/08 : アム編の冒頭を削除、54話までを追加
+
+- 2020/04/26 : 57話までを追加
 
 ![](./data/fgimage/logo.png)
