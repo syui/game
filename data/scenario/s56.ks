@@ -4,9 +4,6 @@
 [playbgm storage=01.ogg]
 [bg storage=i_mati.png]
 
-;アイはたくさんのスパイ映画を見せられて懐柔される
-;アム星に潜入する、銀河鉄道からしか入れない厳重、ロボットの星で、下級ロボットがスラムで暮らしている
-
 #カキコ
 [chara_show name="c_kakiko" width=300 top=100]
 エージェント・アイ、まさかその格好で行くつもりですか？[l][r][cm]
@@ -63,8 +60,7 @@
 
 #アイ
 ... ... ...！[l][r][cm]
-[chara_new name="c_yui_zen_ken" storage="c_yui_zen_ken.png" jname="c_yui_zen_ken"]
-[chara_show name="c_yui_zen_ken" width=400 top=50]
+[chara_show name="c_yui_tensi" width=300 top=100]
 
 #大統領
 [chara_show name="c_ponta_papa" width=400 top=50]
@@ -90,6 +86,6 @@
 アイはすっかり、スパイ映画にハマっていた[l][r][cm]
 こうしてアム星に潜入する計画は着実に進行するのであった[l]
 
-[glink storage="ttt.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
+[glink storage="s57.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 
 [s]
