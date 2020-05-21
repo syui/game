@@ -71,20 +71,7 @@
 しかし...この突拍子もない物語[l][r]
 昔、どこかで読んだ気がするじょ[l]
 
-;[title name="アム星・駅"]
-;[bg storage=f_hasi.png]
-;[playbgm storage=04.ogg]
-;#アイ
-;[chara_new name="c_yui_zen_ken" storage="c_yui_zen_ken.png" jname="c_yui_zen_ken"]
-;[chara_show name="c_yui_zen_ken" width=400 top=50]
-;潜入した[l][r][cm]
-;#王様
-;[chara_show name="c_octo_ou" width=300 top=100]
-;アムは銀河鉄道からしか入れない厳重な星[l][r]
-;気をつけるのだぞ、アイくん[l][r]
-;ここからは通信ができなくなる[l][r][cm]
-;絵本の救世主
-;時系列にする、アムでスラムの下層ロボが下剋上、コイン維持、はかせ負け、値下がり、アイがここで生まれ変わったアムを買う。
+
 
 [glink storage="s54.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 
