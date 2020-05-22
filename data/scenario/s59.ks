@@ -96,7 +96,7 @@
 #
 [chara_new name="c_amu" storage="c_amu.png" jname="c_amu"]
 [chara_show name="c_amu" width=500 top=0]
-大きなロボットが2体、出入り口に立っていた[l][r][cm]
+大きな警備ロボットが2体、出入り口に立っていた[l][r][cm]
 
 [chara_hide_all wait=true]
 [chara_new name="c_yui_zen_ken" storage="c_yui_zen_ken.png" jname="c_yui_zen_ken"]
@@ -109,6 +109,6 @@
 #アイ
 (あの中央の塔、地下...なにかよくないものを感じる)[l]
 
-[glink storage="ttt.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
+[glink storage="s60.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 
 [s]
