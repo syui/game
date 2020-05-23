@@ -78,4 +78,6 @@ phonegap,cordova : config.xml
 
 - 2020/04/26 : 57話までを追加
 
+- 2020/05/23 : タイトル画面などのレイアウトを一新, tyranoscript update v5.0.2, ios build test (cordova)
+
 ![](./data/fgimage/logo.png)
