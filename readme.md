@@ -80,4 +80,6 @@ phonegap,cordova : config.xml
 
 - 2020/05/23 : タイトル画面などのレイアウトを一新, tyranoscript update v5.0.2, ios build test (cordova)
 
+> tyranoscriptはv5からmobileで動作しなくなっているため、v4に戻した
+
 ![](./data/fgimage/logo.png)
