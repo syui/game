@@ -1,3 +1,46 @@
+html5 cordova build ios, android.
+
+### xcode
+
+```sh
+$ npm i
+$ npm i -g cordova
+$ cordova platform add ios
+$ cordova compile ios
+
+# 更新
+$ vim www/
+$ cordova prepare ios
+$ ls ./platforms/ios
+$ open -a Xcode ./platforms/ios/yui.xcodeproj
+```
+
+### android
+
+```
+$ cordova platform add android
+$ cordova compile android
+
+# android sdk install
+# curl -s get.sdkman.io | bash
+# sdk install gradle
+
+# device download
+# start emulate
+$ cordova emulate android
+```
+
+https://cordova.apache.org/docs/ja/latest/guide/platforms/android/
+
+### icon
+
+
+```sh
+$ cp ./AppIcon.appiconset/icon.zsh ${project}/Images.xcassets/AppIcon.appiconset/
+$ cd ${project}/Images.xcassets/AppIcon.appiconset/
+$ ./icon.zsh
+```
+
 ### memo
 
 #### iosアイコンの作成
