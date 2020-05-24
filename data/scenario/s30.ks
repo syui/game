@@ -4,10 +4,6 @@
 [playbgm storage=00.ogg]
 [bg storage=i_hosi_01.png]
 
-[position layer=message0 width=800 height=280 top=350 left=70 ]
-[position layer=message0 page=fore frame="frame.png" margint="60" marginl="50" marginr="70" marginb="60" title="test"]
-
-
 
 #
 あれから2年...[l][r][cm]

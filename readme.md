@@ -82,4 +82,8 @@ phonegap,cordova : config.xml
 
 > tyranoscriptはv5からmobileで動作しなくなっているため、v4に戻した
 
+- 2020/05/24 : cordovaでios,androidのbuildが成功, アプリ最適化, アイコン最適化
+
 ![](./data/fgimage/logo.png)
+
+
