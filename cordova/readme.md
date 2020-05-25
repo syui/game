@@ -61,3 +61,11 @@ m4aにすると音が出るようになる。ただし、m4aは、tyranorider(we
 $ cordova prepare ios
 ```
 
+#### ボタン位置の調整
+
+`x=0, width=350`にする
+
+```
+[glink storage="s02.ks" text="続きを読む" size=20 width="350" x=0 y=230 color=gray font_color=black graphic=more.png clickse=yes.m4a]
+```
+
