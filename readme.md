@@ -85,15 +85,19 @@ phonegap,cordova : config.xml
 
 - 2020/05/24 : cordovaでios,androidのbuildが成功, アプリ最適化, アイコン最適化
 
+- 2020/05/25 : nexus7, iphoneseで実機テスト後にapk,ipaをreleasesにて配布
+
+https://github.com/syui/game/releases/tag/3.0
+
 ## 操作方法
 
 スマホでの操作方法です。
 
 右にスワイフ : メニュー
 
-下にスワイフ : 履歴
+下にスワイフ : ロード 
 
-上にスワイフ : ロード 
+上にスワイフ : 履歴
 
 ![](./data/fgimage/logo.png)
 
