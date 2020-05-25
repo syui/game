@@ -4,16 +4,18 @@
     id          = "cf.syui.game"
     versionCode = "10"
     version     = "1.0.0" >
-
   <name>yui</name>
 	<platform name="ios" />
 	<platform name="android" />
   <description>
-      novel game yui.
+      novel game
   </description>
-
+	<icon density="mdpi" src="res/ios/icon-29@2x.png" />
+	<icon density="hdpi" src="res/ios/icon-40@2x.png" />
+	<icon density="xhdpi" src="res/ios/icon-60@2x.png" />
+	<icon density="xxhdpi" src="res/ios/icon-60@3x.png" />
+	<icon density="xxxhdpi" src="res/ios/icon-83.5@2x.png" />
   <author href="https://syui.cf" email="syui@syui.cf">
       syui
   </author>
-
 </widget>

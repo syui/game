@@ -4,6 +4,8 @@ update : 2020/04/26
 
 phonegap,cordova : config.xml
 
+
+
 ## 履歴
 
 - 2020/01/04 : v1.0をリリース
@@ -11,7 +13,6 @@ phonegap,cordova : config.xml
 - 2020/01/04 : 英語と中文の1話を追加
 
 - 2020/01/05 : エンディングを飛ばせる選択肢を用意
-
 - 2020/01/05 : 18話を追加
 
 - 2020/01/05 : プランのイラストを追加
@@ -80,10 +81,19 @@ phonegap,cordova : config.xml
 
 - 2020/05/23 : タイトル画面などのレイアウトを一新, tyranoscript update v5.0.2, ios build test (cordova)
 
-> tyranoscriptはv5からmobileで動作しなくなっているため、v4に戻した
+> tyranoscriptはv5からmobile(web)で動作しなくなっているため、v4に戻した
 
 - 2020/05/24 : cordovaでios,androidのbuildが成功, アプリ最適化, アイコン最適化
 
-![](./data/fgimage/logo.png)
+## 操作方法
 
+スマホでの操作方法です。
+
+右にスワイフ : メニュー
+
+下にスワイフ : 履歴
+
+上にスワイフ : ロード 
+
+![](./data/fgimage/logo.png)
 

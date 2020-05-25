@@ -3,13 +3,13 @@
 [title name="yui"]
 
 [position layer=message0 opacity=0]
-;[plugin name="menu_se" menubutton_clickse="yes.ogg" menu_close_clickse="yes.ogg" save_list_clickse="yes.ogg" cancel_clickse="yes.ogg" confirm_clickse="yes.ogg" ]
-;[playbgm storage=03.ogg]
+;[plugin name="menu_se" menubutton_clickse="yes.m4a" menu_close_clickse="yes.m4a" save_list_clickse="yes.m4a" cancel_clickse="yes.m4a" confirm_clickse="yes.m4a" ]
+;[playbgm storage=03.m4a]
 
 [bg storage=p_blue_c.png time=0]
 [image layer=1 storage=logo_w.png visible=true top=0 left=0 width=400]
-[glink target=*first text="はじめから" size=20 width=350 x=0 y=350 color=gray font_color=black graphic=more.png clickse=yes.ogg]
-[glink target=*loadmenu text="つづきから" size=20 width=350 x=0 y=450 color=gray font_color=black graphic=more.png clickse=yes.ogg]
+[glink target=*first text="はじめから" size=20 width=350 x=0 y=350 color=gray font_color=black graphic=more.png clickse=yes.m4a]
+[glink target=*loadmenu text="つづきから" size=20 width=350 x=0 y=450 color=gray font_color=black graphic=more.png clickse=yes.m4a]
 
 [s]
 
@@ -25,8 +25,8 @@
 [position layer=message0 page=fore frame="frame.png" title="test" margint="55" marginl="30" marginr="30" marginb="30"]
 [ptext name="chara_name_area" layer=message0 width=400 color=black x=20 y=365 size=26]
 [chara_config ptext="chara_name_area"]
-[button name="role_button" glink text="S" size=15 width="40" y=365 x=350 color=gray font_color=white graphic=b_blue_save.png clickse=yes.ogg role="save"]
-[button name="role_button" glink text="L" size=15 width="40" y=365 x=300 color=gray font_color=white graphic=b_red_load.png clickse=yes.ogg role="load"]
+[button name="role_button" glink text="S" size=15 width="40" y=365 x=350 color=gray font_color=white graphic=b_blue_save.png clickse=yes.m4a role="save"]
+[button name="role_button" glink text="L" size=15 width="40" y=365 x=300 color=gray font_color=white graphic=b_red_load.png clickse=yes.m4a role="load"]
 [chara_new name="c_octo_def" storage="c_octo_def.png" jname="c_octo_def"]
 [chara_new name="c_octo_ou" storage="c_octo_ou.png" jname="c_octo_ou"]
 [chara_new name="c_octo_hakase" storage="c_octo_hakase.png" jname="c_octo_hakase"]
