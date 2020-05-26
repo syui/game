@@ -1,10 +1,16 @@
-update : 2020/04/26
+## yui
 
-`はじめから -> 最新話:54話`
+<img src="./data/fgimage/logo.png" height="50" />
 
-phonegap,cordova : config.xml
+最新話 : 2020/04/26
 
+`yui`はtyranoscriptで作成されているオリジナルのノベルゲームです。
 
+スピンオフに[マンガ](https://syui.cf/manga/)、[小説](https://syui.cf/novel/)がありますが、原作の位置づけです。
+
+## 使用
+
+tyranoscript, cordova, gh-pages
 
 ## 履歴
 
@@ -13,6 +19,7 @@ phonegap,cordova : config.xml
 - 2020/01/04 : 英語と中文の1話を追加
 
 - 2020/01/05 : エンディングを飛ばせる選択肢を用意
+
 - 2020/01/05 : 18話を追加
 
 - 2020/01/05 : プランのイラストを追加
@@ -89,15 +96,5 @@ phonegap,cordova : config.xml
 
 https://github.com/syui/game/releases/tag/3.0
 
-## 操作方法
-
-スマホでの操作方法です。
-
-右にスワイフ : メニュー
-
-下にスワイフ : ロード 
-
-上にスワイフ : 履歴
-
-![](./data/fgimage/logo.png)
+- 2020/05/26 : wikiを追加
 
