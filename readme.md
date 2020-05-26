@@ -1,5 +1,3 @@
-## yui
-
 <img src="./data/fgimage/logo.png" height="50" />
 
 最新話 : 2020/04/26
