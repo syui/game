@@ -38,3 +38,4 @@ tyranoscript, cordova, gh-pages
 
 - 2020/05/26 : add wiki
 
+- 2020/05/26 : add cname `game.syui.cf`
