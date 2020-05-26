@@ -6,11 +6,9 @@ new : 2020/04/26
 
 There are manga and novels in the spin-offs, but this is the position of the original.
 
-## play(web)
+play(web) : https://syui.github.io/game
 
-https://syui.github.io/game
-
-## play(app)
+## download
 
 https://github.com/syui/game/releases/tag/3.0
 
