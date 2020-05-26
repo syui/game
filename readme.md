@@ -1,98 +1,36 @@
 <img src="./data/fgimage/logo.png" height="50" />
 
-最新話 : 2020/04/26
+new : 2020/04/26
 
-`yui`はtyranoscriptで作成されているオリジナルのノベルゲームです。
+`yui` is an original novel game created in tyranoscript.
 
-スピンオフに[マンガ](https://syui.cf/manga/)、[小説](https://syui.cf/novel/)がありますが、原作の位置づけです。
+There are manga and novels in the spin-offs, but this is the position of the original.
 
-## 使用
-
-tyranoscript, cordova, gh-pages
-
-## 履歴
-
-- 2020/01/04 : v1.0をリリース
-
-- 2020/01/04 : 英語と中文の1話を追加
-
-- 2020/01/05 : エンディングを飛ばせる選択肢を用意
-
-- 2020/01/05 : 18話を追加
-
-- 2020/01/05 : プランのイラストを追加
-
-- 2020/01/05 : 19話を追加
-
-- 2020/01/05 : 20話を追加
-
-- 2020/01/05 : 21話を追加
-
-- 2020/01/05 : 22話を追加
-
-- 2020/01/05 : 23話を追加
-
-- 2020/01/05 : エンディング2を追加
-
-- 2020/01/06 : 24話を追加
-
-- 2020/01/06 : 25話を追加
-
-- 2020/01/08 : 26話を追加
-
-- 2020/01/08 : 27話を追加
-
-- 2020/01/08 : 28話を追加
-
-- 2020/01/08 : 真エンディングを追加
-
-- 2020/01/08 : v2.0をリリース
-
-- 2020/01/09 : 英語と中国語に自動翻訳を追加
-
-- 2020/01/10 : 英語と中国語に原文(日本語)をコメントで追加
-
-- 2020/01/14 : yui2の作成を始める
-
-- 2020/01/14 : yui2の紹介ページを作成, https://syui.cf/imgame2
-
-- 2020/01/16 : yui2を追加、v3.0をリリース
-
-- 2020/01/16 : エンディング(40話)を追加
-
-- 2020/01/16 : 41話、42話を追加
-
-- 2020/01/17 : 43話を追加
-
-- 2020/01/17 : キャラクター紹介ページを作成, https://syui.cf/gamechara
-
-- 2020/01/20 : 43, 44話を追加
-
-- 2020/01/20 : 最新話に飛ぶボタンを追加(はじめから)
-
-- 2020/03/07 : 45, 46話を追加
-
-- 2020/03/09 : オープニングのBGMを削除
-
-- 2020/03/20 : yui3の作成を始める
-
-- 2020/03/20 : 47話から51話を追加、yui3の前半であるモンスター編が終了
-
-- 2020/03/20 : yui3の後半、アム編の冒頭を追加
-
-- 2020/04/08 : アム編の冒頭を削除、54話までを追加
-
-- 2020/04/26 : 57話までを追加
-
-- 2020/05/23 : タイトル画面などのレイアウトを一新, tyranoscript update v5.0.2, ios build test (cordova)
-
-> tyranoscriptはv5からmobile(web)で動作しなくなっているため、v4に戻した
-
-- 2020/05/24 : cordovaでios,androidのbuildが成功, アプリ最適化, アイコン最適化
-
-- 2020/05/25 : nexus7, iphoneseで実機テスト後にapk,ipaをreleasesにて配布
+## download
 
 https://github.com/syui/game/releases/tag/3.0
 
-- 2020/05/26 : wikiを追加
+## install
+
+https://github.com/syui/game/wiki/install
+
+## use
+
+tyranoscript, cordova, gh-pages
+
+## history
+
+- 2020/01/04 : releases v1.0
+
+- 2020/01/08 : releases v2.0
+
+- 2020/01/17 : add chara page, https://syui.cf/gamechara
+
+- 2020/05/23 : tyranoscript update v5.0.2, ios build test (cordova)
+
+- 2020/05/24 : build done ios and android
+
+- 2020/05/25 : releases v3.0, add `.apk`, `.ipa`
+
+- 2020/05/26 : add wiki
 
