@@ -4,7 +4,7 @@ new : 2020/04/26
 
 `yui` is an original novel game created in tyranoscript.
 
-There are manga and novels in the spin-offs, but this is the position of the original.
+There are [manga](https://syui.github.io/manga) and [novels](https://syui.github.io/novel) in the spin-offs, but this is the position of the original.
 
 play(web) : https://syui.github.io/game
 
