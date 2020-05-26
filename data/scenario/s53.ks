@@ -71,8 +71,6 @@
 しかし...この突拍子もない物語[l][r]
 昔、どこかで読んだ気がするじょ[l]
 
-
-
 [glink storage="s54.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 
 [s]

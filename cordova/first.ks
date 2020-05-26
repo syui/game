@@ -3,8 +3,6 @@
 [title name="yui"]
 
 [position layer=message0 opacity=0]
-;[plugin name="menu_se" menubutton_clickse="yes.m4a" menu_close_clickse="yes.m4a" save_list_clickse="yes.m4a" cancel_clickse="yes.m4a" confirm_clickse="yes.m4a" ]
-;[playbgm storage=03.m4a]
 
 [bg storage=p_blue_c.png time=0]
 [image layer=1 storage=logo_w.png visible=true top=0 left=0 width=400]
