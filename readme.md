@@ -26,6 +26,8 @@ tyranoscript, cordova, gh-pages
 
 - 2020/01/08 : releases v2.0
 
+- 2020/01/17 : add page, https://syui.cf/imgame
+
 - 2020/01/17 : add chara page, https://syui.cf/gamechara
 
 - 2020/05/23 : tyranoscript update v5.0.2, ios build test (cordova)
