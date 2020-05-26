@@ -10,7 +10,7 @@ play(web) : https://syui.github.io/game
 
 ## download
 
-https://github.com/syui/game/releases/tag/3.0
+https://github.com/syui/game/releases/tag/v3.0
 
 ## install
 
