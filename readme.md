@@ -1,6 +1,6 @@
 <img src="./data/fgimage/logo.png" height="50" />
 
-new : 2020/04/26
+new : 2020/06/06
 
 `yui` is an original novel game created in tyranoscript.
 
