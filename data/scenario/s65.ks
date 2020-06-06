@@ -145,7 +145,7 @@
 
 #
 [chara_show name="c_yui" width=300 top=100]
-アイが元の姿に戻ると、アイが手に持っていた輪が灰色に変化していた[l][r][cm]
+アイが元の姿に戻ると、アイが手に持っていた輪が灰色に変化した[l][r][cm]
 
 #キタムラ
 [chara_new name="c_kitamura_ken" storage="c_kitamura_ken.png" jname="c_kitamura_ken"]
