@@ -35,7 +35,7 @@
 
 #グレイ・オウ
 ん？俺様に口答えする気か？[l][r][cm]
-生まれてきたことを後悔するほどのくすぐり拷問地獄がお望みか？[l][r][cm]
+生まれてきたことを後悔するほどのくすぐり地獄がお望みか？[l][r][cm]
 
 #兵士A
 ...............................[l][r][cm]
@@ -169,6 +169,6 @@
 ん？[l][r]
 お、おや...さっきまでいた女の子はどこに！？[l]
 
-[glink storage="ttt.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
+[glink storage="s68.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 
 [s]
