@@ -69,6 +69,8 @@
 [chara_new name="c_zeusu_2" storage="c_zeusu_2.png" jname="c_zeusu_2"]
 [chara_new name="c_zeusu_3" storage="c_zeusu_3.png" jname="c_zeusu_3"]
 [chara_new name="c_grei" storage="c_grei.png" jname="c_grei"]
+[chara_new name="c_grei_origin" storage="c_grei_origin.png" jname="c_grei_origin"]
+[chara_new name="c_grei_ou" storage="c_grei_ou.png" jname="c_grei_ou"]
 [chara_new name="c_ripo" storage="c_ripo.png" jname="c_ripo"]
 [chara_new name="c_kakiko" storage="c_kakiko.png" jname="c_kakiko"]
 [chara_new name="c_amu" storage="c_amu.png" jname="c_amu"]
@@ -77,7 +79,11 @@
 [chara_new name="m_torimu" storage="m_torimu.png" jname="m_torimu"]
 [chara_new name="m_torimu_2" storage="m_torimu_2.png" jname="m_torimu_2"]
 [chara_new name="c_kitamura" storage="c_kitamura.png" jname="c_kitamura"]
+[chara_new name="c_kitamura_ken" storage="c_kitamura_ken.png" jname="c_kitamura_ken"]
 [chara_new name="c_amu" storage="c_amu.png" jname="c_amu"]
+[chara_new name="c_sontyou" storage="c_sontyou.png" jname="c_sontyou"]
+[chara_new name="c_ponta_3" storage="c_ponta_3.png" jname="c_ponta_3"]
+[chara_new name="c_kyousuke_3" storage="c_kyousuke_3.png" jname="c_kyousuke_3"]
 [jump storage="s00.ks"]
 [s]
 
@@ -109,6 +115,7 @@
 ;[chara_new name="c_plan" storage="c_plan.png" jname="c_plan"]
 ;[chara_new name="c_kyousuke_2" storage="c_kyousuke_2.png" jname="c_kyousuke_2"]
 ;[chara_new name="c_ponta_2" storage="c_ponta_2.png" jname="c_ponta_2"]
+
 ;[chara_new name="c_zen_2" storage="c_zen_2.png" jname="c_zen_2"]
 ;[chara_new name="c_yui_2" storage="c_yui.png" jname="c_yui_2"]
 ;[chara_new name="c_yui_3" storage="c_yui.png" jname="c_yui_3"]
