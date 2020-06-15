@@ -206,6 +206,6 @@
 ;[chara_show name="c_yui" width=300 top=100]
 ;右
 
-[glink storage="s71.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
+[glink storage="ttt.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 
 [s]
