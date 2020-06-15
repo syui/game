@@ -185,6 +185,8 @@
 右[l][r][cm]
 #
 アイ達は、右の道を進んだ[l][r][cm]
+
+*common1
 ......................................[l][r][cm]
 
 #キタムラ
@@ -196,11 +198,7 @@
 
 #キタムラ
 そ、そうか...[l][r]
-(こいつ、興味ないこと覚えてないからな...)[l][r][cm]
-
-#
-*common1
-[cm]
+(こいつ、興味ないこと覚えてないからな...)[l]
 
 ;#キタムラ
 ;どっちから行く？
@@ -208,6 +206,6 @@
 ;[chara_show name="c_yui" width=300 top=100]
 ;右
 
-[glink storage="ttt.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
+[glink storage="s71.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 
 [s]

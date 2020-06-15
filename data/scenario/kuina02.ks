@@ -29,8 +29,7 @@
 ...さっきの子、できる[l][r][cm]
 
 #キタムラ
-えっ！？[l]
-#
+えっ！？[l][r][cm]
 
 @jump storage=s70.ks target=*common1
 

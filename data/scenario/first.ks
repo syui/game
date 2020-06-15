@@ -84,6 +84,8 @@
 [chara_new name="c_sontyou" storage="c_sontyou.png" jname="c_sontyou"]
 [chara_new name="c_ponta_3" storage="c_ponta_3.png" jname="c_ponta_3"]
 [chara_new name="c_kyousuke_3" storage="c_kyousuke_3.png" jname="c_kyousuke_3"]
+[chara_new name="c_sen" storage="c_sen.png" jname="c_sen"]
+[chara_new name="c_sen_2" storage="c_sen_2.png" jname="c_sen_2"]
 [jump storage="s00.ks"]
 [s]
 
