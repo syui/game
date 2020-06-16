@@ -39,3 +39,6 @@ tyranoscript, cordova, gh-pages
 - 2020/05/26 : add wiki
 
 - 2020/05/26 : add cname `game.syui.cf`
+
+- 2020/06/13 : [kuina-chan](https://kuina.ch/others/license) appears as a guest, hidden character
+
