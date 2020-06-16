@@ -50,7 +50,7 @@
 
 ;kuina-off
 #
-はかせは、アムが暴落して以降、すっかり涙もろくなってしまっていた[l][r]
+はかせは、アムが暴落して以来、すっかり涙もろくなってしまっていた[l][r]
 [glink target=*select3 text="大丈夫だよ、よしよし" size=20 width="200" y=130 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 [glink storage=kuina01.ks target=*select4 text="なでなで" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 [s]
