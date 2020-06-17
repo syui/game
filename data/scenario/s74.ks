@@ -18,7 +18,7 @@
 それを忘れんように！[l][r][cm]
 
 #アイ
-う、うん[l][r][cm]
+う、うん？[l][r][cm]
 
 #キョウスケ
 [chara_show name="c_kyousuke_3" width=400 top=50]
