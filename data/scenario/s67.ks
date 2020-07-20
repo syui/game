@@ -115,7 +115,7 @@
 [playbgm storage=03.ogg]
 #
 ドドドドドドドドッーーーーーーーン！！[l][r][cm]
-[bg storage=f_kori_2.png]
+[bg storage=i_baku_04.png]
 城内から爆発音が響き渡り、やがて、大きな悲鳴が聞こえてきた[l][r][cm]
 
 #
