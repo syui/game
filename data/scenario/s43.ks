@@ -2,7 +2,7 @@
 [chara_hide_all wait=true]
 [title name="ネコ星"]
 [playbgm storage=00.ogg]
-[bg storage=f_nekosen_2.png]
+[bg storage=f_nekosen.png]
 
 #？？？
 待て待てー！[l][r][cm]
@@ -107,7 +107,7 @@
 #王様
 は、はい、お気をつけて...[l][r][cm]
 [title name="オクト星・広場"]
-[bg storage=f_nekosen_1.png]
+[bg storage=f_nekosen_2.png]
 [chara_hide_all wait=true]
 #シンオウ
 [chara_show name="m_sinou" width=600 top=0]

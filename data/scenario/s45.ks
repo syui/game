@@ -2,7 +2,7 @@
 [chara_hide_all wait=true]
 [title name="ネコ星・ロケット島"]
 [playbgm storage=00.ogg]
-[bg storage=f_nekosen_1.png]
+[bg storage=f_nekosen_2.png]
 
 #
 ネコセンは自分の星に帰ってきた[l][r][cm]
@@ -48,7 +48,7 @@
 こうしてアイは、ネコ星で暮らすことになったのだった[l][r][cm]
 #ネコセン
 [title name="ネコ星・ネコ屋敷"]
-[bg storage=f_nekosen_2.png]
+[bg storage=f_nekosen.png]
 ふう...[l][r]
 やっとついたじょ[l][r][cm]
 #

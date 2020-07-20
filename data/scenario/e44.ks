@@ -2,7 +2,7 @@
 [chara_hide_all wait=true]
 [title name="ネコ星"]
 [playbgm storage=00.ogg]
-[bg storage=f_nekosen_2.png]
+[bg storage=f_nekosen.png]
 ; #？？？
 #? ? ?
 ; 待て待てー！
@@ -197,7 +197,7 @@ Then, I'm really going[l][r]
 ; は、はい、お気をつけて...
 Yes, be careful ...[l][r][cm]
 [title name="オクト星・広場"]
-[bg storage=f_nekosen_1.png]
+[bg storage=f_nekosen_2.png]
 [chara_hide_all wait=true]
 ; #シンオウ
 #Shin-Oh

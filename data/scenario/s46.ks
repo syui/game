@@ -2,7 +2,7 @@
 [chara_hide_all wait=true]
 [title name="ネコ星・ネコ平原"]
 [playbgm storage=00.ogg]
-[bg storage=f_nekosen_2.png]
+[bg storage=f_nekosen.png]
 
 #ネコセン
 [chara_show name="m_sinou" width=600 top=0]

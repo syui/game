@@ -2,7 +2,7 @@
 [chara_hide_all wait=true]
 [title name="ネコ星"]
 [playbgm storage=00.ogg]
-[bg storage=f_nekosen_2.png]
+[bg storage=f_nekosen.png]
 ; #プラン
 #计划
 [chara_show name="c_plan" width=500 top=0]

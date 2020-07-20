@@ -2,7 +2,7 @@
 [chara_hide_all wait=true]
 [title name="ネコ星"]
 [playbgm storage=00.ogg]
-[bg storage=f_nekosen_2.png]
+[bg storage=f_nekosen.png]
 ; #？？？
 #？ ？ ？
 ; 待て待てー！
@@ -197,7 +197,7 @@ Shin-oh优雅地飞出了窗外[l][r][cm]
 ; は、はい、お気をつけて...
 是的，要小心...[l][r][cm]
 [title name="オクト星・広場"]
-[bg storage=f_nekosen_1.png]
+[bg storage=f_nekosen_2.png]
 [chara_hide_all wait=true]
 ; #シンオウ
 #新哦
