@@ -3,7 +3,7 @@
 [title name="アイvsプラン"]
 ;[stopbgm]
 ;[playbgm storage=01.ogg]
-[bg storage=f_uchusenta.png]
+[bg storage=f_octo_hinan.png]
 ;[chara_show name="ai" width=400 top=50]
 #アイ
 ..................................................[l][r][cm]

@@ -12,7 +12,7 @@
 ドーーーーーーーーーーーーーン！[l][r][cm]
 #リポ
 す、すごい爆風が...[l][r][cm]
-[bg storage=f_taikai_2.png]
+[bg storage=f_uchusenta.png]
 [chara_hide name="c_ripo"]
 #アイ
 [chara_show name="c_yui_tensi" width=300 top=50]
