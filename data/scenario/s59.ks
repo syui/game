@@ -2,7 +2,7 @@
 [chara_hide_all wait=true]
 [title name="アム駅"]
 [playbgm storage=02.ogg]
-[bg storage=black_00.png]
+[bg storage=black.png]
 
 #アイ
 [chara_show name="c_yui" width=300 top=100]

@@ -1,6 +1,6 @@
 *start
 [title name="シリーズ"]
-;[bg storage=p_blue_c.png]
+;[bg storage=copy.png]
 ;[stopbgm]
 ;[playbgm storage=00.ogg]
 

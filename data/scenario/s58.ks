@@ -37,7 +37,7 @@
 アイもドアをくぐり、列車の中に入る[l][r][cm]
 [chara_show name="c_yui_tensi" width=300 top=100]
 二人が乗った瞬間に扉が閉まり、みんなが見えなくなった[l][r][cm]
-[bg storage=black_00.png]
+[bg storage=black.png]
 
 #キタムラ
 ガラガラだな...その辺、座るか[l][r][cm]

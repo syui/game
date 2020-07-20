@@ -3,7 +3,7 @@
 [title name="地球・空の上"]
 [stopbgm]
 [playbgm storage=wind.ogg]
-[bg storage=yui_07.png time=0]
+[bg storage=f_kumo.png time=0]
 ; #アイ
 #眼
 ; アイは空を飛んでいた
