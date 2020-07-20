@@ -111,7 +111,7 @@ No way! ?[l][r]
 (Although saying so[l][r]
 ; はかせは地下移行のスイッチを押した)
 (Hakase pressed the switch to underground transfer)[l][r][cm]
-[bg storage=i_octo_hinan.png]
+[bg storage=f_uchusenta.png]
 ; すると、オクト星の家々は徐々に地下に潜ってゆき
 Then the octo star houses gradually dive underground[l][r]
 ; 元からあった地形のみが残された

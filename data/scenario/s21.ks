@@ -62,7 +62,7 @@
 そ、そんなまさか！？[l][r]
 (そう言いながらも[l][r]
 はかせは地下移行のスイッチを押した)[l][r][cm]
-[bg storage=i_octo_hinan.png]
+[bg storage=f_uchusenta.png]
 すると、オクト星の家々は徐々に地下に潜ってゆき[l][r]
 元からあった地形のみが残された[l][r][cm]
 #王様

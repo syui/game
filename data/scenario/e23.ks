@@ -6,7 +6,7 @@
 ;[stopbgm]
 ; ;
 ;[playbgm storage=01.ogg]
-[bg storage=i_octo_hinan.png]
+[bg storage=f_uchusenta.png]
 ; ;
 ;[chara_show name="ai" width=400 top=50]
 ; #アイ

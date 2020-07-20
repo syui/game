@@ -5,7 +5,7 @@
 ;[stopbgm]
 ; ;
 ;[playbgm storage=01.ogg]
-[bg storage=i_octo_hinan.png]
+[bg storage=f_uchusenta.png]
 [chara_show name="c_yui" width=400 top=50]
 [chara_show name="c_plan" width=500 top=0]
 ; #アイ

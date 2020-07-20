@@ -111,7 +111,7 @@ yu！ ！[l][r][cm]
 （尽管这么说[l][r]
 ; はかせは地下移行のスイッチを押した)
 （绞线将开关压到了地下）[l][r][cm]
-[bg storage=i_octo_hinan.png]
+[bg storage=f_uchusenta.png]
 ; すると、オクト星の家々は徐々に地下に潜ってゆき
 然后octo明星屋逐渐潜入地下[l][r]
 ; 元からあった地形のみが残された
