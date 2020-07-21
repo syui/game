@@ -164,16 +164,15 @@
 #アイ
 [chara_show name="c_yui" width=400 top=50]
 (アイは、その話を聞き、上の方を見た)[l][r][cm]
-[chara_hide_all wait=true]
-[bg storage=s_01.png]
 すると...[l][r]
 何かが近づいてくるのを感じる...[l][r][cm]
 (今から30日後、地球に最も接近するみたい)[l][r][cm]
+
 #
 ...................................[l][r][cm]
 アイは目に見えないものを見ることができた[l][r][cm]
 だから今まで一人でやってこれたのだ[l][r][cm]
-[bg storage=i_ie_start.png]
+
 #キョウスケ
 [chara_show name="c_kyousuke" width=400 top=50]
 アイはなんかないか？[l][r][cm]

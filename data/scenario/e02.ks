@@ -293,8 +293,7 @@ I'm sure you're a glutton[l][r][cm]
 [chara_show name="c_yui" width=400 top=50]
 ; (アイは、その話を聞き、上の方を見た)
 (I heard the story and looked up)[l][r][cm]
-[chara_hide_all wait=true]
-[bg storage=s_01.png]
+
 ; すると...
 Then ...[l][r]
 ; 何かが近づいてくるのを感じる...
@@ -309,7 +308,6 @@ Feel something approaching ...[l][r][cm]
 Eyes could see invisible things[l][r][cm]
 ; だから今まで一人でやってこれたのだ
 So I've done it alone[l][r][cm]
-[bg storage=i_ie_start.png]
 ; #キョウスケ
 #Kyousuke
 [chara_show name="c_kyousuke" width=400 top=50]

@@ -293,8 +293,7 @@ Ojamashimasu！[l][r][cm]
 [chara_show name="c_yui" width=400 top=50]
 ; (アイは、その話を聞き、上の方を見た)
 （我听了这个故事，抬头看）[l][r][cm]
-[chara_hide_all wait=true]
-[bg storage=s_01.png]
+
 ; すると...
 那...[l][r]
 ; 何かが近づいてくるのを感じる...
@@ -309,7 +308,6 @@ Ojamashimasu！[l][r][cm]
 眼睛可以看到看不见的东西[l][r][cm]
 ; だから今まで一人でやってこれたのだ
 所以我一个人做[l][r][cm]
-[bg storage=i_ie_start.png]
 ; #キョウスケ
 #恭介
 [chara_show name="c_kyousuke" width=400 top=50]
