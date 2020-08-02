@@ -259,5 +259,5 @@
 [chara_new name="c_kyouko" storage="c_kyouko.png" jname="c_kyouko"]
 [chara_new name="c_sen" storage="c_sen.png" jname="c_sen"]
 [chara_new name="c_sen_2" storage="c_sen_2.png" jname="c_sen_2"]
-[jump storage="s77.ks"]
+[jump storage="s78.ks"]
 [s]
