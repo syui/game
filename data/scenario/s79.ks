@@ -76,6 +76,7 @@
 こ、これは...すごいじょ[l][r][cm]
 
 [bg storage=f_doukutu.png]
+[title name="地球・洞窟"]
 
 #
 ネコセンの声が広すぎる洞窟にこだました[l][r][cm]
@@ -107,7 +108,6 @@
 おお、懐かしいな、それ[l][r][cm]
 
 #アイ
-え？[l][r]
 使ってないの？[l][r][cm]
 
 #ネコセン
@@ -130,13 +130,13 @@
 ぐ、ぐ...おん...[l][r][cm]
 
 #
-モンスターボックスの中から煮え切らない声が聞こえたような気がした[l][r][cm]
+モンスターボックスの中から微妙な声が聞こえたような気がした[l][r][cm]
 
 #
 .................................................[l][r][cm]
 
 #ネコセン
-はあ、ふう...い、一体、どれだけ歩けばいいんだじょ[l][r][cm]
+はあ、ふう...一体、どれだけ歩けばいいんだじょ[l][r][cm]
 
 #アイ
 うーん...まだまだあるよ[l][r][cm]
@@ -150,6 +150,6 @@
 #
 ネコセンとアイ、シンオウは一旦、帰ることにした[l]
 
-[glink storage="ttt.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
+[glink storage="s80.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 
 [s]
