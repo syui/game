@@ -259,5 +259,10 @@
 [chara_new name="c_kyouko" storage="c_kyouko.png" jname="c_kyouko"]
 [chara_new name="c_sen" storage="c_sen.png" jname="c_sen"]
 [chara_new name="c_sen_2" storage="c_sen_2.png" jname="c_sen_2"]
-[jump storage="s83.ks"]
+[chara_new name="c_t_octo_hei" storage="c_t_octo_hei.png" jname="c_t_octo_hei"]
+[chara_new name="c_t_octo_hakase" storage="c_t_octo_hakase.png" jname="c_t_octo_hakase"]
+[chara_new name="c_t_octo_ou" storage="c_t_octo_ou.png" jname="c_t_octo_ou"]
+[chara_new name="c_t_octo_cat" storage="c_t_octo_cat.png" jname="c_t_octo_cat"]
+
+[jump storage="s84.ks"]
 [s]
