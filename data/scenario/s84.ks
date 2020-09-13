@@ -71,6 +71,6 @@
 #
 みんながゾロゾロとハウスのドアから外に出ていった[l]
 
-[glink storage="ttt.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
+[glink storage="s85.ks" text="続きを読む" size=20 width="200" y=230 color=gray font_color=black graphic=more.png clickse=yes.ogg]
 
 [s]

@@ -264,5 +264,5 @@
 [chara_new name="c_t_octo_ou" storage="c_t_octo_ou.png" jname="c_t_octo_ou"]
 [chara_new name="c_t_octo_cat" storage="c_t_octo_cat.png" jname="c_t_octo_cat"]
 
-[jump storage="s84.ks"]
+[jump storage="s85.ks"]
 [s]
